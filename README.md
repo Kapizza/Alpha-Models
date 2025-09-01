@@ -1,17 +1,10 @@
-# Alpha Models Portfolio
+# Portfolio construction
 
-> A simple educational package showcasing core features of equity alpha model research.
+> A simple educational package showcasing core features of portfolio construction
 
 ---
 
 ## Planned Features
-
-* **Alpha signals**
-
-  * Momentum (12–1)
-  * Mean reversion (short‑term reversal)
-  * Value (e.g., book‑to‑market, P/E)
-  * Multifactor combinations
 
 * **Data utilities**
 
@@ -22,17 +15,6 @@
 
   * Equal‑weight and rank‑weight portfolios
   * Basic optimizer (mean‑variance, toy examples)
-
-* **Risk management**
-
-  * Factor exposure checks (beta, sector)
-  * Transaction cost modeling (simple turnover cost)
-
-* **Evaluation metrics**
-
-  * Sharpe, Sortino, max drawdown
-  * Information Coefficient (IC/IR)
-  * Turnover and capacity
 
 
 ---
